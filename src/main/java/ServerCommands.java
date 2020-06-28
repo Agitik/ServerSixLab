@@ -10,6 +10,4 @@ public class ServerCommands {
         System.out.println("Инициирован выход из сервера");
         Server.ExitCode = true;
     }
-
-
 }
